@@ -5,6 +5,8 @@ Response & redux; I developed with. An application where you can access comments
 The purpose of this application is that users can access clean, accurate and understandable comments about the phone.
 
 To present the comments obtained from various e-commerce sites using python (scrapy) technology and the comments we have classified using python (pandas) technology to users through this application.
+Scrapy codes:https://github.com/BK-97/Python-Scrapy
+Pandas codes:https://github.com/BK-97/Pandas
 
 # REST API 
 
